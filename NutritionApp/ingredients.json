@@ -1,0 +1,72 @@
+[
+  {
+  "name": "Flour wheat high quality",
+  "protein": 10.3,
+  "fat": 0.9,
+  "carbs": 74.2,
+  "calories": 327
+},
+{
+  "name": "Flour wheat 1 grade",
+  "protein": 10.6,
+  "fat": 1.3,
+  "carbs": 73.2,
+  "calories": 329
+},
+{
+  "name": "Flour rye",
+  "protein": 6.8,
+  "fat": 1.2,
+  "carbs": 76.8,
+  "calories": 321
+},
+{
+  "name": "Sugar",
+  "protein": 0.2,
+  "fat": 0,
+  "carbs": 99.6,
+  "calories": 377
+},
+{
+  "name": "Dark chocolate",
+  "protein": 5.2,
+  "fat": 35.6,
+  "carbs": 52.4,
+  "calories": 546
+},
+{
+  "name": "Honey",
+  "protein": 0.6,
+  "fat": 0,
+  "carbs": 80.5,
+  "calories": 312
+},
+{
+  "name": "Egg",
+  "protein": 12.7,
+  "fat": 11.1,
+  "carbs": 0.6,
+  "calories": 153
+},
+{
+  "name": "Milk 2.5%",
+  "protein": 2.8,
+  "fat": 2.5,
+  "carbs": 4.6,
+  "calories": 53
+},
+{
+  "name": "Sour cream 20%",
+  "protein": 3,
+  "fat": 20,
+  "carbs": 2.9,
+  "calories": 208
+},
+{
+  "name": "Butter 82,5%",
+  "protein": 0.5,
+  "fat": 82.5,
+  "carbs": 1,
+  "calories": 747
+}
+]
